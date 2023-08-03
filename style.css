@@ -1,0 +1,65 @@
+/* 1 */
+/* Флаг Франции */
+
+.part1 {
+  display: flex;
+}
+
+.part1__1 {
+  background-color: 	#0055A4;
+  width: 150px;
+  height: 250px;
+}
+
+.part1__2 {
+  background-color: #ffffff;
+  width: 150px;
+  height: 250px;
+}
+
+.part1__3 {
+  background-color: #EF4135;
+  width: 150px;
+  height: 250px;
+}
+
+/* Флаг Бельгии */
+
+.part2 {
+  display: flex;
+}
+
+.part2__1 {
+  background-color: black;
+  width: 150px;
+  height: 250px;
+}
+
+.part2__2 {
+  background-color: yellow;
+  width: 150px;
+  height: 250px;
+}
+
+.part2__3 {
+  background-color: #EF4135;
+  width: 150px;
+  height: 250px;
+}
+
+/* 3 */
+
+.img1 {
+  width: 350px;
+  height: 500px;
+}
+
+.img2 {
+  width: 350px;
+  height: 500px;
+}
+
+.img3 {
+  width: 350px;
+  height: 500px;
+}
